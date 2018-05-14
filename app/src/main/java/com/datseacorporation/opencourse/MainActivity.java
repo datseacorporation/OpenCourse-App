@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             public void run() {
                 finish();
-                startActivity(new Intent(getApplicationContext(), Login_Option_Activity.class));
+                startActivity(new Intent(getApplicationContext(), LoginActivity.class));
             }
         }, SPLASH_TIME_OUT);
 

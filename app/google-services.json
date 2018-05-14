@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655894419659",
+    "firebase_url": "https://opencourse-app.firebaseio.com",
+    "project_id": "opencourse-app",
+    "storage_bucket": "opencourse-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655894419659:android:b16cae3ea0b1c3f4",
+        "android_client_info": {
+          "package_name": "com.datseacorporation.opencourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655894419659-keeugom9obqfo4450sehsi1qn70tcpvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datseacorporation.opencourse",
+            "certificate_hash": "abbb106bea5c0e08591d3e5af5a5c45419ae5c2b"
+          }
+        },
+        {
+          "client_id": "655894419659-28tgq2ul4s49iuaakr1k2anpsbgilj36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6h9OBmm4wIgu0dmijtMndX2GSo1ChUCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655894419659-28tgq2ul4s49iuaakr1k2anpsbgilj36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
