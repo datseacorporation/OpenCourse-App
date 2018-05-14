@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OpenCourse</string>
+    <string name="app_version">v0.1 beta</string>
+    <string name="todo">TODO</string>
 </resources>
