@@ -3,4 +3,5 @@
     <string name="user_email">Email</string>
     <string name="user_password">Password</string>
     <string name="login_button">Login</string>
+    <string name="search_field">Catalog Search...</string>
 </resources>
