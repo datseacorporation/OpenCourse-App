@@ -2,4 +2,12 @@
     <string name="app_name">OpenCourse</string>
     <string name="app_version">v0.1 beta</string>
     <string name="todo">TODO</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_recom">Recommended</string>
+    <string name="nav_mycourse">My Courses</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
